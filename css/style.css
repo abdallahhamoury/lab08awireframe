@@ -4,11 +4,12 @@
 body{
     margin: 0%;
     background-color: #969696;
+    
 }
 
 header nav{
     min-width: 700px;
-	margin-left: 180px;
+	margin-left: 120px;
    
 }
 
@@ -21,7 +22,8 @@ display:inline-block;
 padding: 20px;
 border: solid white;
 margin: 20px;
-margin-left: 20px;
+margin-left: 70px;
+height: 65px;
 
 
 }
@@ -32,21 +34,46 @@ margin-top: 14px;
 }
 
 #first{
-    padding-left: 15%;
+    padding-left: 17%;
     padding-top: 3%;
     padding-bottom: 3%;
 }
 
 .imgC{
     display: inline-block;
-    margin-left: 100px;
+    margin-left: 80px;
     text-align: center;
     margin-bottom: 3%;
 }
 
 footer{
    background-color: #444444 ;
-   height: 100px; ;
-   padding-top: 2%;
+   height: 50px;
+   padding-top: 20px;
+   clear: both;
    
+   
+}
+#third{
+    padding-left: 110px;
+    width: 50%;
+    overflow:auto;
+    padding-top: 20px;
+    height: 400px
+
+    }
+h1{
+    font-weight: bolder;
+}
+
+button{
+    background-color: black;
+    color: blanchedalmond;
+    width: 120px;
+    height: 40px;
+    
+}
+div{
+   padding-left: 5%;
+    float:left
 }
